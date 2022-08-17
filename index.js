@@ -6,12 +6,12 @@
 
 const conversion =
 {
-	"meter": 3.281,
-	"liter": 0.264,
-	"kilo": 2.204,
-	"feet": 0.305,
-	"gallon": 3.788,
-	"pound": 0.454
+	"meter": 3.28084,
+	"liter": 0.219969,
+	"kilo": 2.20462,
+	"feet": 0.3048000097536,
+	"gallon": 4.54609,
+	"pound": 0.453592
 }
 
 const convert_btn = document.getElementById('convert-btn');
